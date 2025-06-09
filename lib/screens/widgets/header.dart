@@ -22,7 +22,7 @@ Widget header() {
         padding: EdgeInsets.symmetric(horizontal: 16, vertical: 12),
         child: Row(
           children: [
-            Image.asset(AppAssets.logowithoutbgweb, height: 80, width: 80),
+            Image.network(AppAssets.logo, height: 80, width: 80),
             SizedBox(width: isDesktop ? 30 : 15),
             Expanded(
               child: Container(
