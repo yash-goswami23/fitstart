@@ -1,8 +1,6 @@
 import 'dart:ui';
 
-import 'package:fitstart/model/gyms.dart';
 import 'package:flutter/material.dart';
-import 'package:fitstart/core/assets/app_assets.dart';
 import 'package:fitstart/core/theme/app_colors.dart';
 
 Widget categoryCard({

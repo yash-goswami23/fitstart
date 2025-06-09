@@ -1,6 +1,3 @@
-import 'dart:ui';
-
-import 'package:fitstart/model/gyms.dart';
 import 'package:fitstart/screens/widgets/categories_card.dart';
 import 'package:flutter/material.dart';
 import 'package:fitstart/core/assets/app_assets.dart';
